@@ -1,1 +1,1 @@
-# DC-Motors-and-H-Bridge-Project
+# DC Motors and H Bridge Project
